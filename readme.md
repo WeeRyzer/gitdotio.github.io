@@ -94,7 +94,7 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 |  17  | Jefferson Neves        | [@jeffersonrpn](https://github.com/jeffersonrpn)     |
 |  18  | Stephanie Velazquez    | [@svelazquez](https://github.com/svelazquez)         |
 |  19  | Ryan Duncan            | [@weeryzer](https://github.com/weeryzer)             |
-
+ 
 ## License
 
 [The UNLICENSE](https://github.com/gitdotio/gitdotio.github.com/blob/master/license)
