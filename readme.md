@@ -93,7 +93,7 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 |  16  | Jefferson Neves        | [@jeffersonrpn](https://github.com/jeffersonrpn)     |
 |  17  | Jefferson Neves        | [@jeffersonrpn](https://github.com/jeffersonrpn)     |
 |  18  | Stephanie Velazquez    | [@svelazquez](https://github.com/svelazquez)         |
-
+|  19  | Ryan Duncan            | [@weeryzer](https://github.com/weeryzer)             |
 
 ## License
 
